@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<!--img principal-->
+<div align="center">
+  <img src="https://github.com/marrScielo/marrScielo/blob/main/gif.gif" />
+</div>
 
 <!--
 **marrScielo/marrScielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
