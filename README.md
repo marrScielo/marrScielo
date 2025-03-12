@@ -14,11 +14,22 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tech Stack </h2>
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <div>
+  <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,nextjs,react,angular,tailwind,bootstrap,figma&perline=12" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,nextjs,react,angular&perline=12" />
     </a>
-    <br>
+  </p>
+  <p align="left">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&perline=12" />
+    </a>
+  </p>
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=arduino,blender,cs,eclipse,spring,vite,git&perline=12" />
     </a>
+  </p>
   </div>
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marrScielo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/marrScielo)
+
